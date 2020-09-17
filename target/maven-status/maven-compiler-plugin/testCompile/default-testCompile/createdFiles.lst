@@ -1,0 +1,16 @@
+ObjectRepository\Amazon_OR.class
+ObjectRepository\Amazon_HamburgerMenu_OR.class
+ObjectRepository\Amazon_ProductPage_OR.class
+Driver\stepDefs\AmazonStepDefinitions.class
+PageObjects\CommonMethodsFunctions.class
+ObjectRepository\Amazon_CartPage_OR.class
+ObjectRepository\Amazon_LoginPage_OR.class
+Utility\SetProperties.class
+Driver\desiredCapabilities.class
+Driver\PropertyData.class
+Driver\BaseTest.class
+ObjectRepository\Amazon_SearchResultPage_OR.class
+Utility\ReadProperties.class
+Utility\Log.class
+Driver\Runner.class
+ObjectRepository\Amazon_HomePage_OR.class
